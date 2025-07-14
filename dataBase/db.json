@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Administrador",
+      "email": "admin@admin.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "315d",
+      "name": "Yesid",
+      "email": "yesid@visitor.com",
+      "password": "visitor123",
+      "role": "visitor"
+    },
+    {
+      "id": "1e98",
+      "name": "Leonardo",
+      "email": "leo@visitor.com",
+      "password": "2visitor123",
+      "role": "visitor"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Evento de Prueba",
+      "description": "Este es un evento de prueba para verificar la funcionalidad del sistema.",
+      "date": "2023-10-01",
+      "capacity": 100
+    },
+    {
+      "id": 1,
+      "name": "Evento de Prueba",
+      "description": "Este es un evento de prueba para verificar la funcionalidad del sistema.",
+      "date": "2023-10-01",
+      "capacity": 100
+    }
+  ]
+}
